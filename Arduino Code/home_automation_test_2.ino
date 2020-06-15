@@ -16,7 +16,7 @@ pinMode(RELAY_2, OUTPUT);
 pinMode(RELAY_3, OUTPUT);
 pinMode(RELAY_4, OUTPUT);
 
-// Initialize RELAY1 = off. So that on reset it would be off by default
+// Initialize RELAYs = off. So that on reset it would be off by default
 
 digitalWrite(RELAY_1, RELAY_OFF);
 digitalWrite(RELAY_2, RELAY_OFF);
@@ -24,7 +24,7 @@ digitalWrite(RELAY_3, RELAY_OFF);
 digitalWrite(RELAY_4, RELAY_OFF);
 Serial.begin(9600);
 
-Serial.print("1 to turn bulb on and 0 to trn it off");
+Serial.print("Home Automation By Arsh Anwar");
 
 }
 
