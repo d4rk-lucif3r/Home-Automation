@@ -1,4 +1,4 @@
-# Home_Automation
+# Home Automation
 
 - Micro-Controller Based Home Automation for Smart Homes
 
