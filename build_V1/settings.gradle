@@ -1,0 +1,2 @@
+rootProject.name='Home Automation'
+include ':app'

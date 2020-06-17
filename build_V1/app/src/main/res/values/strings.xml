@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">H_A_T_1</string>
+    <string name="Device_1" translatable="false">Appliance 1 </string>
+    <string name="Device_3" translatable="false">Appliance 2</string>
+    <string name="Device_2" translatable="false">Appliance 3 </string>
+    <string name="Device_4" translatable="false">Appliance 4</string>
+    <string name="Connect" translatable="false">Connect</string>
+    <string name="Off" translatable="false">Off</string>
+    <string name="Disconnect" translatable="false">Disconnect</string>
+    <string name="Online" translatable="false">Turned On</string>
+    <string name="Disconnected" translatable="false">Disconnected</string>
+    <string name="Connect_Again" translatable="false">Connect Again</string>
+    <string name="Connected" translatable="false">Connected</string>
+    <string name="Device_1_offline" translatable="false">Appliance 1 Turned Off </string>
+    <string name="Device_2_offline" translatable="false">Appliance 2 Turned Off</string>
+    <string name="Device_3_offline" translatable="false">Appliance 3 Turned Off</string>
+    <string name="Device_4_offline" translatable="false">Appliance 4 Turned Off</string>
+</resources>
