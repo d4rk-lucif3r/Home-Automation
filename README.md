@@ -20,7 +20,7 @@
     - Address Table Stores paired device **address** and its **name**. Address table is used to store previous connection Data. A prompt for connecting to last device connected with app [Automatically](https://github.com/arshanwar/Home-Automation/blob/master/Screenshots%20Build_v3/Build_v3Previous%20Connection%20Alert%20Dialog.jpg) will be shown after restarting app. 
     - Address Table gets deleted after new data being entered.
    - A **custom [ListAdapter](https://github.com/arshanwar/Home-Automation/blob/master/Build_v3/app/src/main/java/com/lucifer/h_a_t_3/Custom_ListAdapter/myListAdapter.java)** is used to display Room name Stored in Database on Main Activity.
- - **As of Build_v3 All rooms call same [Device Control Fragment](https://github.com/arshanwar/Home-Automation/blob/master/Build_v3/app/src/main/java/com/lucifer/h_a_t_3/Fragments/UI_Fragments/DeviceControlFragment.java). I'll be fixing that in Future.**
+ - **As of Build_v3 All rooms send same commands in [Device Control Fragment](https://github.com/arshanwar/Home-Automation/blob/master/Build_v3/app/src/main/java/com/lucifer/h_a_t_3/Fragments/UI_Fragments/DeviceControlFragment.java). I'll be fixing that in Future.**
  - Single Press on button in [Device Control Fragment](https://github.com/arshanwar/Home-Automation/blob/master/Build_v3/app/src/main/java/com/lucifer/h_a_t_3/Fragments/UI_Fragments/DeviceControlFragment.java) will send turn on command to [Arduino](https://github.com/arshanwar/Home-Automation/blob/master/Arduino%20Code/home_automation_test_2.ino). A long press will send turn off command to [Arduino](https://github.com/arshanwar/Home-Automation/blob/master/Arduino%20Code/home_automation_test_2.ino).
     
 
