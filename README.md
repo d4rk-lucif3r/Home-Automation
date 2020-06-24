@@ -1,6 +1,15 @@
 # Home Automation
 
 - Micro-Controller Based Home Automation for Smart Homes
+## To-Do List
+- ~~Initial Build By 20-June-2020~~
+  - Added Build_v1 on 17 June
+
+- ~~Basic App Interface by 24-Jun-2020~~
+  - Added Build_v3 on 24 june
+
+- UI enhancement by 30-Jun-2020
+- Future Build will contain Scheduling task which will send turn on/off command to arduino on a Particular time selected by user.
 ## Working
 - This app utilizes 2 Activities. One is for Device Control and Other for device pairing Stuff.
 - This application makes use of:
@@ -43,12 +52,4 @@
   - Last Connection Alert Dialog
     - ![Last Connection](https://github.com/arshanwar/Home-Automation/blob/master/Screenshots%20Build_v3/Build_v3Previous%20Connection%20Alert%20Dialog.jpg)
     
-## To-Do List
-- ~~Initial Build By 20-June-2020~~
-  - Added Build_v1 on 17 June
 
-- ~~Basic App Interface by 24-Jun-2020~~
-  - Added Build_v3 on 24 june
-
-- UI enhancement by 30-Jun-2020
-- Future Build will contain Scheduling task which will send turn on/off command to arduino on a Particular time selected by user.
