@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/RoomShow"
+    android:layout_width="match_parent"
+    android:layout_height="420dp"
+    tools:context=".Fragments.UI_Fragments.Room_show_fragment">
+
+    <ListView
+        android:id="@+id/Room_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</FrameLayout>

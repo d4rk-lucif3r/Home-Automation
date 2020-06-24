@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:background="#FFFFFF"
+    tools:context=".Fragments.Functional_Fragments.room_add_fragment">
+
+    <EditText
+        android:id="@+id/edit_add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="50dp"
+        android:background="#FFFFFF"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Enter Room Name"
+        android:inputType="textPersonName"
+        android:text="" />
+
+    <Button
+        android:id="@+id/add"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+
+        android:layout_marginTop="90dp"
+        android:background="#FFFFFF"
+        android:stateListAnimator="@anim/fade_in"
+        android:text="Add Room" />
+
+    <Button
+        android:id="@+id/close"
+        android:layout_width="wrap_content"
+        android:layout_height="42dp"
+        android:layout_marginLeft="360dp"
+        android:background="#FFFFFF"
+        android:stateListAnimator="@anim/fade_in"
+        android:text="X" />
+</FrameLayout>

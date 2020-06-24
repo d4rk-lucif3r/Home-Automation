@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/DeviceControlfrag"
+    android:layout_width="match_parent"
+    android:layout_height="420dp"
+    android:background="#FFFFFF"
+    tools:context=".Fragments.UI_Fragments.DeviceControlFragment"
+    android:tag="DeviceControl">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/Llayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/close_device_control"
+                android:layout_width="33dp"
+                android:layout_height="46dp"
+
+                android:layout_gravity="right"
+                android:layout_marginRight="3dp"
+                android:background="#FFFFFF"
+                android:gravity="center|center_horizontal|center_vertical"
+                android:stateListAnimator="@anim/fade_in"
+                android:text="X"
+                android:textAlignment="gravity" />
+
+            <Button
+                android:id="@+id/Dev_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFFFFF"
+
+                android:gravity="center|center_horizontal|center_vertical"
+                android:text="Button" />
+
+            <Button
+                android:id="@+id/Dev_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFFFFF"
+                android:text="Button" />
+
+            <Button
+                android:id="@+id/Dev_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFFFFF"
+
+                android:text="Button" />
+
+            <Button
+                android:id="@+id/Dev_3"
+                android:layout_width="411dp"
+                android:layout_height="wrap_content"
+                android:background="#FFFFFF"
+
+                android:text="Button" />
+
+            <TextView
+                android:id="@+id/textcount"
+                android:layout_width="match_parent"
+                android:layout_height="63dp"
+                android:gravity="center"
+                android:text="TextView"
+                android:textSize="40sp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>
+
+
