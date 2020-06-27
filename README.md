@@ -1,5 +1,5 @@
 # Home Automation
-![lucifer](https://img.shields.io/badge/-LuCiFer-orange) ![Google Phone](https://img.shields.io/badge/Android-Lollipop+-blue.svg?logo=google&longCache=true&style=flat-square) ![java](https://img.shields.io/badge/-JAVA-red) ![arduino](https://img.shields.io/badge/-Arduino-blue) ![HomeAutomation](https://img.shields.io/badge/-Home%20Automation-lightgrey) ![c++](https://img.shields.io/badge/-C%2B%2B-brightgreen)
+![lucifer](https://img.shields.io/badge/-LuCiFeR-orange) ![Google Phone](https://img.shields.io/badge/Android-Lollipop+-blue.svg?logo=google&longCache=true&style=flat-square) ![java](https://img.shields.io/badge/-JAVA-red) ![arduino](https://img.shields.io/badge/-Arduino-blue) ![HomeAutomation](https://img.shields.io/badge/-Home%20Automation-lightgrey) ![c++](https://img.shields.io/badge/-C%2B%2B-brightgreen)
 - Micro-Controller Based Home Automation for Smart Homes
 ## To-Do List
 - ~~Initial Build By 20-June-2020~~
