@@ -7,7 +7,7 @@
 
 - ~~Basic App Interface by 24-Jun-2020~~
   - Added Build_v3 on 24 june
-- To use Job Scheduler API reather than Alarm Manager in upcoming Builds.
+- To use Job Scheduler API reather than Alarm Manager in upcoming Builds for Switch on/off scheduling.
 - Future Build will contain Scheduling task which will send turn on/off command to arduino on a Particular time selected by user.
 
 
