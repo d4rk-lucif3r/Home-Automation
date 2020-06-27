@@ -8,10 +8,30 @@
 - ~~Basic App Interface by 24-Jun-2020~~
   - Added Build_v3 on 24 june
 - To use Job Scheduler API reather than Alarm Manager in upcoming Builds.
+- Future Build will contain Scheduling task which will send turn on/off command to arduino on a Particular time selected by user.
+
+
+## Changelog
+- Build_v1
+  - Added On/Off functionality to buttons by means of single and long click respectively.
+  - Can be paired with the device whose address is hardcoded in app.
+  - Added Digital Clock on main screen.
+  
+
+- Build_v3
+  - UI Revamping.
+  - Can be paired with any device through app.
+  - Removed clock.
+  - Added Room Functionality.
+  - Device Switching on/off scheduling(not enabled in this build).
+  - New Bluetooth devices can be searched from within app.
+  - App data is stored in Local Database.
+  - Added functionality to connect to last connected device Seamlessly!!
+  - New Rooms can be added from within app.
 
  
 
-- Future Build will contain Scheduling task which will send turn on/off command to arduino on a Particular time selected by user.
+
 ## Working
 - This app utilizes 2 Activities. One is for Device Control and Other for device pairing Stuff.
 - This application makes use of:
