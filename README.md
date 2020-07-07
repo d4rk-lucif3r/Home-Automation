@@ -108,8 +108,11 @@
    
      - ![Updation](https://github.com/arshanwar/Home-Automation/blob/master/Screensshots%20Build_v5/Updating%20Room%20Name.jpg)
    <br/>
+   
    - Button Extra Settings Alert Dialog
+   
       - ![extra](https://github.com/arshanwar/Home-Automation/blob/master/Screensshots%20Build_v5/Button%20Extra%20settings%20Alert%20Dialog.jpg)
+      
    <br/>
    
    - Room Configurations Alert Dialog
