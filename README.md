@@ -42,6 +42,7 @@
   - Removed Room Add Fragment.
   - Added [Room Settings](https://github.com/arshanwar/Home-Automation/blob/master/Screensshots%20Build_v5/Room%20Settings(Item%20Long%20Click%20).jpg).
   - Added [Extra Settings for buttons.](https://github.com/arshanwar/Home-Automation/blob/master/Screensshots%20Build_v5/Button%20Extra%20settings%20Alert%20Dialog.jpg)
+  - Device On_Off will be done by Switches rather than Buttons from now .
     <br/>
   
 
